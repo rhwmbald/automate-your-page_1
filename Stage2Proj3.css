@@ -1,0 +1,57 @@
+/* if the asterisk is used it applies to all elements*/
+body {
+	padding: 20px 10px;
+	font-family: Serif;
+	max-width: 2000px;
+	margin: 0 auto;  
+	font-size: 1.4em;
+}                 
+
+h1 {
+	text-align: center;
+	color: #294860;
+}
+
+p {
+	margin: 10px 0;
+}
+
+.subtitle {
+	background-color: #294860;
+	border-radius: 20px;
+	color: yellow;
+	padding: 10px;
+	margin: 10px auto;
+}
+
+h2 {
+	margin: 10px;
+}
+
+.summary {
+	background-color: #DFEAF1;
+	padding: 4px;
+	margin: 10px;
+	border-radius: 4px;
+	color: black;
+}
+
+.sum_title {
+	font-size: 28px;
+	margin: 8px;
+	text-align: center;
+	color: #294860;
+}
+
+.sum_detail {
+	font-weight: lighter;
+	margin: 6px;
+}
+
+.c_green {
+	font-family: Georgia;
+	color : green;
+	font-weight: bold;
+	padding-left:  4px;
+	padding-right: 4px;
+}
